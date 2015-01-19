@@ -1,2 +1,1 @@
-# azuretest
 azure==0.8.4
